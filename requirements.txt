@@ -1,0 +1,20 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+
+# Groq LLM
+langchain-groq
+
+# OpenAI-compatible interface (used internally by LangChain)
+openai
+
+# Data handling
+pandas
+
+# Validation
+pydantic
+
+wikipedia
+ddgs
+python-dotenv
